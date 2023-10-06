@@ -1,6 +1,7 @@
 # MATLAB code to replicate main results from "Decoding Motor Plans Using a Closed-Loop Ultrasonic Brain-Machine Interface"
 ==============================
 
+
 ## Project Organization
 ------------
 
@@ -36,6 +37,11 @@ Packaged as .zip file in data hierarchy used by MATLAB functions. Once downloade
 ## Other information
 Tested on MATLAB R2021a on Windows 10, MATLAB 2021b, and MATLAB 2022b on Mac Ventura 13.4.1
 Please send feedback and suggestions to: [wsgriggs@caltech.edu](mailto:wsgriggs@caltech.edu)
+
+Zenodo archive - 
+[![DOI](https://zenodo.org/badge/701341316.svg)](https://zenodo.org/badge/latestdoi/701341316)
+
+==============================
 
 ### In publications, please reference:
 Griggs, W.S., Norman, S.L., Deffieux, T., Segura, F., Osmanski, B.-F., Chau, G., Christopoulos, V., Liu, C., Tanter, M., Shapiro, M.G., and Andersen, R.A. Decoding Motor Plans Using a Closed-Loop Ultrasonic Brain-Machine Interface. Nature Neuroscience. _Accepted._ (See BioRxiv version [here](https://www.biorxiv.org/content/10.1101/2022.11.10.515371v1))
