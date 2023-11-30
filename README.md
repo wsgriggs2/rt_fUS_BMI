@@ -44,7 +44,7 @@ Zenodo archive -
 ==============================
 
 ### In publications, please reference:
-Griggs, W.S., Norman, S.L., Deffieux, T., Segura, F., Osmanski, B.-F., Chau, G., Christopoulos, V., Liu, C., Tanter, M., Shapiro, M.G., and Andersen, R.A. Decoding Motor Plans Using a Closed-Loop Ultrasonic Brain-Machine Interface. Nature Neuroscience. _Accepted._ (See BioRxiv version [here](https://www.biorxiv.org/content/10.1101/2022.11.10.515371v1))
+Griggs, W.S., Norman, S.L., Deffieux, T., Segura, F., Osmanski, B.-F., Chau, G., Christopoulos, V., Liu, C., Tanter, M., Shapiro, M.G., and Andersen, R.A. Decoding Motor Plans Using a Closed-Loop Ultrasonic Brain-Machine Interface. Nature Neuroscience. November 30, 2023. https://www.nature.com/articles/s41593-023-01500-7
 
 ------------
 ## Quick Start
